@@ -1,4 +1,4 @@
-CSE Undergrad  5⭐C++ & 4⭐C @Hackerank JS || Python Front end developer  DSA with C++ Competitive Programmer | AI
+5⭐C++ & 4⭐C @Hackerank JS || Python Front end developer  DSA with C++ Competitive Programmer | AI
 
 
 ### 💻 Tech Stack:
@@ -6,9 +6,9 @@ CSE Undergrad  5⭐C++ & 4⭐C @Hackerank JS || Python Front end developer  DSA 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tukesh1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tukesh1&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tukesh1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tukesh1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tukesh1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
