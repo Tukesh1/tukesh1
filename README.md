@@ -1,7 +1,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
- I’m a software developer specializing in building AI-powered developer tools and scalable applications with clean, intuitive interfaces using C++, Python, JavaScript, and Go.
+ I’m a software developer specializing in building AI-powered developer tools and scalable applications with clean, intuitive interfaces.
 
 I’m building [codexp-ai](https://github.com/Tukesh1/codexp-ai) an AI-powered platform that explains, documents, and visualizes source code, helping developers understand and onboard to codebases faster.
 If you’d like to collaborate or learn more, feel free to connect via email or my social handles.
