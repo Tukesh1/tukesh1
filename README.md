@@ -5,7 +5,7 @@
 
 I’m building [codexp-ai](https://github.com/Tukesh1/codexp-ai) an AI-powered platform that explains, documents, and visualizes source code, helping developers understand and onboard to codebases faster.
 If you’d like to collaborate or learn more, feel free to connect via email or my social handles.
- 
+ All of my projects are available at [tukesh.sbs](https://tukesh.sbs)  
 </p>
 
 
