@@ -18,9 +18,7 @@ If you’d like to collaborate or learn more, feel free to connect via email or 
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tukesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/>
-</p>
-<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tukesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=tukesh1&show_icons=true&locale=en&theme=dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tukesh1&theme=dark" height="150"/>
 </p>
