@@ -5,7 +5,6 @@
 
 I’m building [codexp-ai](https://github.com/Tukesh1/codexp-ai) an AI-powered platform that explains, documents, and visualizes source code, helping developers understand and onboard to codebases faster.
 If you’d like to collaborate or learn more, feel free to connect via email or my social handles.
- All of my projects are available at [tukesh.in](https://tukesh.in)  
 </p>
 
 
@@ -16,10 +15,11 @@ If you’d like to collaborate or learn more, feel free to connect via email or 
 </p>
 
 
-<h3 align="center">GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tukesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tukesh1&show_icons=true&locale=en&layout=compact&theme=dark" height="150"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=tukesh1&show_icons=true&locale=en&theme=dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tukesh1&theme=dark" height="150"/>
 </p>
+-->
 
