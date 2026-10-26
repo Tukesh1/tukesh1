@@ -1,0 +1,4 @@
+.venv/
+assets/promo/previews/
+__pycache__/
+*.pyc
