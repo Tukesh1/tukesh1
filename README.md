@@ -10,29 +10,9 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tukesh1&theme=github-dark-dimmed&custom_title=activity&hide_border=true" alt="GitHub activity graph" />
-  </a>
-</p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
 
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Tukesh1/tukesh.in/pull/13) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
-2. 💪 Opened PR [#13](https://github.com/Tukesh1/tukesh.in/pull/13) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
-3. 💪 Opened PR [#12](https://github.com/Tukesh1/tukesh.in/pull/12) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
-<!--END_SECTION:activity-->
-
-
-<p align="center">
-  <a href="https://github.com/Tukesh1/Tukesh1/actions"><img alt="wakatime-stats" src="https://img.shields.io/github/actions/workflow/status/Tukesh1/Tukesh1/update-timestats.yml?label=wakatime-stats&style=flat-square" /></a>
-  <a href="https://github.com/Tukesh1/Tukesh1/actions"><img alt="waka-simple" src="https://img.shields.io/github/actions/workflow/status/Tukesh1/Tukesh1/waka-simple.yml?label=waka-simple&style=flat-square" /></a>
-  <a href="https://github.com/Tukesh1/Tukesh1/actions"><img alt="update-gh-activity" src="https://img.shields.io/github/actions/workflow/status/Tukesh1/Tukesh1/update-gh-activity.yml?label=update-gh-activity&style=flat-square" /></a>
-</p>
