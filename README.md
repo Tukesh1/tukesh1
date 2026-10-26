@@ -28,6 +28,9 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/Tukesh1/tukesh.in/pull/13) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
+2. 💪 Opened PR [#13](https://github.com/Tukesh1/tukesh.in/pull/13) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
+3. 💪 Opened PR [#12](https://github.com/Tukesh1/tukesh.in/pull/12) in [Tukesh1/tukesh.in](https://github.com/Tukesh1/tukesh.in)
 <!--END_SECTION:activity-->
 
 <p align="center">
