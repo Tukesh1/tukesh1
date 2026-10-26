@@ -1,0 +1,60 @@
+name: waka-readme-stats
+description: WakaTime stats via a local Alpine image (avoids the broken Docker Hub build)
+
+inputs:
+  GH_TOKEN:
+    required: true
+  WAKATIME_API_KEY:
+    required: true
+  COMMIT_BY_ME:
+    required: false
+    default: "False"
+  COMMIT_MESSAGE:
+    required: false
+    default: "Updated with Dev Metrics"
+  COMMIT_USERNAME:
+    required: false
+    default: ""
+  COMMIT_EMAIL:
+    required: false
+    default: ""
+  SHOW_OS:
+    required: false
+    default: "False"
+  SHOW_PROJECTS:
+    required: false
+    default: "True"
+  SHOW_UPDATED_DATE:
+    required: false
+    default: "True"
+  SHOW_PROFILE_VIEWS:
+    required: false
+    default: "False"
+  SHOW_EDITORS:
+    required: false
+    default: "False"
+  SHOW_LANGUAGE:
+    required: false
+    default: "True"
+  SHOW_LANGUAGE_PER_REPO:
+    required: false
+    default: "False"
+  SHOW_LINES_OF_CODE:
+    required: false
+    default: "True"
+  SHOW_COMMIT:
+    required: false
+    default: "True"
+  SHOW_LOC_CHART:
+    required: false
+    default: "False"
+  SHOW_DAYS_OF_WEEK:
+    required: false
+    default: "False"
+  SHOW_SHORT_INFO:
+    required: false
+    default: "True"
+
+runs:
+  using: docker
+  image: Dockerfile
